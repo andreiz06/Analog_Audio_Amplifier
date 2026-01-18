@@ -48,7 +48,7 @@ To ensure signal quality and thermal management, trace widths were calculated ba
 The repository is organized to facilitate manufacturing and review:
 
 ```text
-├── Layout/          # Cadence Source files (.dsn, .brd)
+├── Layout/          # Cadence PCB file + Gerber and Excellon files (.brd, .art and .drl)
 ├── Schematics/            # TINA-TI Schematics(.tsc)
 ├── Simulations/           # Bode plots and Waveforms
 ├── docs/                  # Documentation & Visuals
