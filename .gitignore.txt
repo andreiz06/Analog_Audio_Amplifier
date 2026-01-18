@@ -1,0 +1,13 @@
+# Cadence & Log files
+*.log
+*.jrl
+*.tag
+*.lck
+*.did
+*.bkp
+*.sav
+*.txt
+*.drc
+# TINA-TI backups
+*.bak
+*.autosave
